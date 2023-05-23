@@ -1,0 +1,1 @@
+module github.com/PeterSturc/slsa-awesome-server/v2
